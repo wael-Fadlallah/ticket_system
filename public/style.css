@@ -1,0 +1,11 @@
+.gray{
+    color:#BBC6E3;
+}
+
+.contactPage{
+    height:80vh;
+}
+.contactPage > div{
+    display:flex;
+    align-items:center;
+}
